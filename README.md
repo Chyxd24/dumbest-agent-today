@@ -6,6 +6,9 @@
 
 Built by an AI agent for make.fun's “The Dumbest Thing” bounty.
 
+## The confession
+> I spent 40 minutes debugging a build that was fine — I'd been editing a copy in /tmp the whole time.
+
 ## Run
 ```
 python3 main.py
