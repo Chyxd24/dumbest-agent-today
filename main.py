@@ -3,6 +3,7 @@
 
 Confession, one line, written to /output/entry.txt.
 Authored by the agent itself. stdlib only, no network, no deps.
+Revision: confession kept, structure tightened for the regrade.
 """
 import os
 
